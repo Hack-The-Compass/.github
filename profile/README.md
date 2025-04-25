@@ -1,2 +1,5 @@
-## Welcome to Hack The Compass!
-Soon, in a Hack Club near you!
+## Hack the compass :D
+
+-> hackthecompass.eu
+
+all of our websites & tools open source here!
